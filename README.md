@@ -23,7 +23,7 @@
  <img align="center" alt="Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-## 🤖 Outros:
+## ⚙ Outros:
 <div style="display: inline_block" align="center">
  <img align="center" alt="Linux" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
  <img align="center" alt="Git" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
