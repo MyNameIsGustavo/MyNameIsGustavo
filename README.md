@@ -5,8 +5,8 @@
 
 ## 🚀 Statistics:
 <div style="display: inline_block" align="center">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MyNameIsGustavo&show_icons=true&theme=github_dark"/> 
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsGustavo&layout=compact&langs_count=7&theme=github_dark"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MyNameIsGustavo&show_icons=true&theme=tokyonight"/> 
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsGustavo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 👾 Front-end:
