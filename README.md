@@ -32,3 +32,9 @@
  <img align="center" alt="Git" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
  <img align="center" alt="Figma" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
+
+## 📱 Mobile:
+<div style="display: inline_block" align="center">
+ <img align="center" alt="Dart" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+ <img align="center" alt="Flutter" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+</div>
