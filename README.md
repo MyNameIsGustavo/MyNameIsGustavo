@@ -1,4 +1,9 @@
-## 👻 Welcome!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+## 👨🏻‍💻 Hey!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Rocha.;I'm+19+years+old.;I'm+from+Sorocaba-SP.;I'm+a+Front-end+and+Mobile+student.;Be+Welcome!)](https://git.io/typing-svg)
+
+## 🍎 Think Different!
 <div style="display: inline_block" align="justify">
 "Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square hole. The ones who see things differently, they’re not fond of rules, you can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things. They push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do." - Apple, 1997.
 </div>
@@ -38,3 +43,5 @@
  <img align="center" alt="Dart" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
  <img align="center" alt="Flutter" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
