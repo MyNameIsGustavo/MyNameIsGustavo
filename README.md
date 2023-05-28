@@ -34,11 +34,11 @@
 
 ## ⚙ Others:
 <div style="display: inline_block" align="center">
- <img align="center" alt="Linux" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+ <img align="center" alt="Firebase" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
  <img align="center" alt="Git" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
  <img align="center" alt="Figma" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
-
+         
 ## 📱 Mobile:
 <div style="display: inline_block" align="center">
  <img align="center" alt="Dart" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
