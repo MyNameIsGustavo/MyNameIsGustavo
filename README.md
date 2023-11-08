@@ -16,20 +16,31 @@
 
 ## 👾 Front-end:
 <div style="display: inline_block" align="center">
- <img href="https://github.com/MyNameIsGustavo?tab=repositories&q=&type=public&language=javascript&sort=" align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+ <img align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
  <img align="center" alt="Bootstrap" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-
- <img align="center" alt="JavaScript" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+ 
+ <a href="https://github.com/MyNameIsGustavo?tab=repositories&q=&type=public&language=javascript&sort=">
+  <img align="center" alt="JavaScript" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+ </a>
+ 
  <img align="center" alt="TypeScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
- <img align="center" alt="ReactJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+ 
+ <a  href="https://github.com/MyNameIsGustavo?tab=repositories&q=&type=public&language=javascript&sort=">
+  <img align="center" alt="ReactJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+ </a>
 </div>
 
 ## 🧭 Back-end:
 <div style="display: inline_block" align="center">
+ 
  <img align="center" alt="NodeJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
- <img align="center" alt="C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
- <img align="center" alt="Oracle SQL" height="47" width="70" src="https://user-images.githubusercontent.com/87160095/199339101-f632e940-ba2a-482b-8ddb-0de21785d7b1.svg"/>
- <img align="center" alt="Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+ 
+ <a href="https://github.com/MyNameIsGustavo?tab=repositories&q=&type=public&language=c&sort=">
+    <img align="center" alt="C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+ </a>
+ <a href="https://github.com/MyNameIsGustavo/PLSQL">
+   <img align="center" alt="Oracle SQL" height="47" width="70" src="https://user-images.githubusercontent.com/87160095/199339101-f632e940-ba2a-482b-8ddb-0de21785d7b1.svg"/>
+ </a>
 </div>
 
 ## ⚙ Others:
